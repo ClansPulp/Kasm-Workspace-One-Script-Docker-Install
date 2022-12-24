@@ -2,6 +2,8 @@
 ## Description
 This repo was created to automate pulling and running the Kasm Worspace docker container(s) / application. It is already pretty simple, but now its one (very basic) shell script. You can even just copy and paste the script contents into a file on your Linux host and run it without pulling the repo.
 
+This can be serup on a local device like a Raspberry Pi or VM, or using a VM in AWS, GCP, Azure, Linode, etc.
+
 Kasm Workspace is an application which utilises Docker containers for it's services. The workspace allows you to launch on-demand, containerised applications through any device's web browser. The applications are launched when needed and also terminated, leaving no trace. 
 It comes preloaded with applications such as Gimp, Sublime Text, Tor, FireFox, Doom (game), etc. More are able to be added at your descretion.
 
