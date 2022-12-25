@@ -1,4 +1,4 @@
-# Kasm-Workspace-One-Script-Docker-Install
+# Kasm-Workspace-One-Script-Install
 ## Description
 This repo was created to automate pulling and running the Kasm Worspace docker container(s) / application. It is already pretty simple, but now its one (very basic) shell script. You can even just copy and paste the script contents into a file on your Linux host and run it without pulling the repo.
 
