@@ -22,7 +22,7 @@ Also by default, applications / containers have a lifespan of 60 minutes and are
 1. Download the repo or copoy the script contents into a new script on the Linux host
 2. Unzip the .ZIP `unzip download.zip`
 3. `cd` into the directory
-4. Run the install file with `sudo bash ./adhuard_home_setup.sh`
+4. Run the install file with `sudo bash ./kasm_setup.sh`
 5. Enter your sudo password if prompted
 6. Once complete, terminal will output the Kasm Workspace credentials, IP address and port to access the GUI
 7. Enter the IP address into a web browser, i.e. `127.0.1.1` or `127.0.1.1:80`
